@@ -3,6 +3,7 @@
 ### Getting started
 
 Clone the Repository
+
 cd into the cloned repository
 
 Do npm install
